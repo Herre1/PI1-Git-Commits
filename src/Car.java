@@ -27,5 +27,4 @@ public class Car {
     public String toString() {
         return "Wheels: " + wheels + "cylinders: " + cylinders + "\n";
     }
->>>>>>> e92731b (add cars toString and print)
 }
